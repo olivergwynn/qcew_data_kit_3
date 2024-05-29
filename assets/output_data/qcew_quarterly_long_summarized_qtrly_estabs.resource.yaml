@@ -1,0 +1,14 @@
+name: qcew_annual_2020_2020_qtrly_estabs
+type: table
+title: 'Compiled QCEW County Data, Annual, 2020-2020 (wide form), Variable: qtrly_estabs'
+description: 'Variable: qtrly_estabs data for counties in MOPRC region and summary
+  2020-2020, derived from the U.S. Bureau of Labor Statistics. Data period: Annual.'
+profile: tabular-data-resource
+path: qcew_quarterly_long_summarized_qtrly_estabs.csv
+scheme: file
+format: csv
+mediatype: text/csv
+encoding: utf-8
+hash: c5369917bbde390e8a1f5382fb84200b
+bytes: 2341576
+schema: morpc-qcew-long.schema.yaml

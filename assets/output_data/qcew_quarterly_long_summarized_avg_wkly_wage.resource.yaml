@@ -1,0 +1,14 @@
+name: qcew_annual_2020_2020_avg_wkly_wage
+type: table
+title: 'Compiled QCEW County Data, Annual, 2020-2020 (wide form), Variable: avg_wkly_wage'
+description: 'Variable: avg_wkly_wage data for counties in MOPRC region and summary
+  2020-2020, derived from the U.S. Bureau of Labor Statistics. Data period: Annual.'
+profile: tabular-data-resource
+path: qcew_quarterly_long_summarized_avg_wkly_wage.csv
+scheme: file
+format: csv
+mediatype: text/csv
+encoding: utf-8
+hash: 341f31a468c53f67771c897c9eeb3cd4
+bytes: 2753413
+schema: morpc-qcew-long.schema.yaml

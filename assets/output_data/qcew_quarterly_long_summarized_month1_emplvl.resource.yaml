@@ -1,0 +1,14 @@
+name: qcew_annual_2020_2020_month1_emplvl
+type: table
+title: 'Compiled QCEW County Data, Annual, 2020-2020 (wide form), Variable: month1_emplvl'
+description: 'Variable: month1_emplvl data for counties in MOPRC region and summary
+  2020-2020, derived from the U.S. Bureau of Labor Statistics. Data period: Annual.'
+profile: tabular-data-resource
+path: qcew_quarterly_long_summarized_month1_emplvl.csv
+scheme: file
+format: csv
+mediatype: text/csv
+encoding: utf-8
+hash: 6588867719b8c1dfffe0979cd345318f
+bytes: 2415613
+schema: morpc-qcew-long.schema.yaml

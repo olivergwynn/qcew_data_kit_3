@@ -1,0 +1,15 @@
+name: qcew_annual_2020_2020_oty_total_qtrly_wages_pct_chg
+type: table
+title: 'Compiled QCEW County Data, Annual, 2020-2020 (wide form), Variable: oty_total_qtrly_wages_pct_chg'
+description: 'Variable: oty_total_qtrly_wages_pct_chg data for counties in MOPRC region
+  and summary 2020-2020, derived from the U.S. Bureau of Labor Statistics. Data period:
+  Annual.'
+profile: tabular-data-resource
+path: qcew_quarterly_long_summarized_oty_total_qtrly_wages_pct_chg.csv
+scheme: file
+format: csv
+mediatype: text/csv
+encoding: utf-8
+hash: ad3f3029655ef8f6112dd0fec76c9c41
+bytes: 3237787
+schema: morpc-qcew-long.schema.yaml

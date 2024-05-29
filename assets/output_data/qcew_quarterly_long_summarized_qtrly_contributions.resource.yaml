@@ -1,0 +1,15 @@
+name: qcew_annual_2020_2020_qtrly_contributions
+type: table
+title: 'Compiled QCEW County Data, Annual, 2020-2020 (wide form), Variable: qtrly_contributions'
+description: 'Variable: qtrly_contributions data for counties in MOPRC region and
+  summary 2020-2020, derived from the U.S. Bureau of Labor Statistics. Data period:
+  Annual.'
+profile: tabular-data-resource
+path: qcew_quarterly_long_summarized_qtrly_contributions.csv
+scheme: file
+format: csv
+mediatype: text/csv
+encoding: utf-8
+hash: 57e138458ef82b05c691cdbb1ddac861
+bytes: 2719323
+schema: morpc-qcew-long.schema.yaml
